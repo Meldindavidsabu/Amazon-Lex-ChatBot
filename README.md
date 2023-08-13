@@ -30,12 +30,17 @@ Note:
 This chatbot is intended for demonstration purposes and serves as a foundation for building more complex conversational interfaces. Feel free to customize and expand upon it according to your specific requirements.
 
 <img width="956" alt="step 1" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/5f4b3207-5076-491c-ac11-66d8534d8c0b">
+
 <img width="960" alt="step 2" src="https://github.com/Meldindavidsabu/Amazon-
 LexChatBot/assets/80899101/876e9b7a-a26b-413b-81cd-4766aa60729b">
 
+
 <img width="344" alt="step 3" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/8ab60367-a4b1-4a57-b376-08909fe5c135">
+
  
 <img width="325" alt="step 4" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/a8ab96ad-b63b-4dd6-8978-a0226e35350d">
+
+
 
 https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/98ff2a6e-823c-42e4-a83c-3237707260ef
 
