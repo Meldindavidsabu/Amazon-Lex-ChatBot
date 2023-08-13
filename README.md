@@ -15,6 +15,7 @@ Name your bot, select a voice (if applicable), and set the session timeout.
 Create an intent called "OrderFoodIntent" for food ordering.
 Add example phrases like "I want to order non vegetarian food," "Vegetarian food options," and "Vegan food menu."
 Define slots like "FoodType" (non-veg, veg, vegan) and "FoodChoice" (pizza, burger, etc.).
+
 Step 2: Create Lambda Function for Intent Fulfillment
 
 Create a new Lambda function called "OrderFoodFunction."
