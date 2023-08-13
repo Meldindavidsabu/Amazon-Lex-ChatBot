@@ -29,6 +29,8 @@ Remember that this is a simplified explanation, and you may need to tailor the s
 Note:
 This chatbot is intended for demonstration purposes and serves as a foundation for building more complex conversational interfaces. Feel free to customize and expand upon it according to your specific requirements.
 
+<img width="956" alt="step 1" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/5f4b3207-5076-491c-ac11-66d8534d8c0b">
+
 
 
 
