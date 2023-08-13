@@ -31,8 +31,8 @@ This chatbot is intended for demonstration purposes and serves as a foundation f
 
 <img width="956" alt="step 1" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/5f4b3207-5076-491c-ac11-66d8534d8c0b">
 
-<img width="960" alt="step 2" src="https://github.com/Meldindavidsabu/Amazon-
-LexChatBot/assets/80899101/876e9b7a-a26b-413b-81cd-4766aa60729b">
+
+<img width="960" alt="step 2" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/ec0b77b8-6206-4010-85f2-bb5f5fe0cee7">
 
 
 <img width="344" alt="step 3" src="https://github.com/Meldindavidsabu/Amazon-Lex-ChatBot/assets/80899101/8ab60367-a4b1-4a57-b376-08909fe5c135">
